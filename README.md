@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Rustam Narayan.
 - 👀 I’m interested in Data structures and Algorithms, Maths and Machine Learning.
-- 🌱 I’m currently exploring different aspects of Computer science.
+- 🌱 I’m currently exploring different aspects of Computer science. I am interested in Machine Learning and Deep Learning.
+- 
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
